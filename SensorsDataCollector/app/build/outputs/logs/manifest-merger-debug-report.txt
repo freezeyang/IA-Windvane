@@ -1,0 +1,383 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:2:1-68:12
+	xmlns:android
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/10.0.1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+	android:targetSdkVersion
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:15:5-68
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:17:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:19:5-79
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:20:5-98
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:20:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:23:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:24:22-77
+application
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:26:5-66:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/10.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:27:9-66
+activity#sensor.information.collector.MainActivity
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:32:9-42:20
+	android:screenOrientation
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:34:13-56
+	android:configChanges
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:36:13-63
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:33:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:40:27-74
+service#sensor.information.collector.InformationCollectionService
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:44:9-47:60
+	android:label
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:47:13-49
+	android:icon
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:45:13-85
+receiver#sensor.information.collector.ScheduleReceiver
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:49:9-53:20
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:49:19-79
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:50:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:51:25-76
+receiver#sensor.information.collector.MyStartServiceReceiver
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:54:9-97
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:54:19-85
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:56:9-58:71
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:57:13-62
+	android:value
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:58:13-68
+activity#ia.information.collector.Setting
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:60:9-65:20
+	android:parentActivityName
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:61:13-83
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:60:19-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:62:13-64:77
+	android:name
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:63:17-63
+	android:value
+		ADDED from /home/yin/StudioProjects/SensorsDataCollector/app/src/main/AndroidManifest.xml:64:17-74
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:20-65
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:66-119
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:9-194
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:9-194
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:9-194
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:9-194
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:9-194
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:144-168
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:19-78
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/AndroidManifest.xml:6:79-143
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:25:7-26:18
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:25:113-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:25:90-112
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:27:7-137
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:32:111-135
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:32:88-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:46:25-77

@@ -1,0 +1,253 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/str_tv_location"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_longitude"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_location" />
+
+    <TextView
+        android:id="@+id/tv_latitude"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_longitude" />
+
+    <TextView
+        android:id="@+id/location_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_latitude"
+        android:layout_centerHorizontal="true"
+        android:text="@string/location_text"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/myaddress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/location_text"
+        android:maxWidth="2dp" />
+
+    <TextView
+        android:id="@+id/light_meter_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/myaddress"
+        android:layout_centerHorizontal="true"
+        android:text="@string/light_meter_text"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/light_reading"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/light_meter_text"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/accelerometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/light_reading"
+        android:layout_centerHorizontal="true"
+        android:text="@string/str_accelerometer"
+        android:textStyle="bold" />
+
+    <TableLayout
+        android:id="@+id/sensortable"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/accelerometer"
+        android:paddingTop="10dip"
+        android:stretchColumns="*" >
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/X_Axis"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/Y_Axis"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/Z_Axis"
+                android:textSize="14sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/x_axis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@+id/y_axis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@+id/z_axis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+    </TableLayout>
+
+    <TableLayout
+        android:id="@+id/sensortable2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sensortable"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+         >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/DatabaseRow"
+                android:layout_column="1"
+                android:layout_span="1"
+                android:text="@string/DatabaseRow"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/SlideSign"
+                android:layout_column="2"
+                android:layout_span="1"
+                android:text="@string/SlideSign" />
+
+            <EditText
+                android:id="@+id/CacheSize"
+                android:layout_column="3"
+                android:layout_span="1"
+                android:inputType="number"
+                android:text="@string/CacheSize" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <CheckBox
+                android:id="@+id/WindVaneCB"
+                android:layout_column="1"
+                android:layout_span="3"
+                android:onClick="onCheckboxClicked"
+                android:text="@string/check_one"
+                android:checked="false" />
+        </TableRow>
+
+        <TableRow android:id="@+id/tableRow3" >
+
+            <ProgressBar
+                android:id="@+id/distance_progress"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                android:layout_column="1"
+                android:layout_gravity="center_vertical"
+                android:layout_span="3" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/JSdis"
+                android:layout_column="1"
+                android:layout_gravity="center_vertical"
+                android:layout_span="3" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_column="1"
+                android:layout_span="1"
+                android:onClick="onClick"
+                android:text="@string/update" />
+
+            <Button
+                android:id="@+id/button_train"
+                android:layout_column="2"
+                android:layout_span="1"
+                android:onClick="onClickExport"
+                android:text="@string/export" />
+
+            <Button
+                android:id="@+id/button_start"
+                android:layout_column="3"
+                android:layout_span="1"
+                android:onClick="onClickStart"
+                android:text="@string/start" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/timestamp"
+                android:layout_column="1"
+                android:layout_span="2" />
+
+            <TextView
+                android:id="@+id/samplerate"
+                android:layout_column="3"
+                android:layout_span="2" />
+        </TableRow>
+    </TableLayout>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/setting_btn"
+        android:layout_alignParentRight="true"
+        android:contentDescription="@string/setting"
+        android:src="@drawable/setting"
+        android:maxHeight="2dp"
+        android:maxWidth="2dp"
+        android:scaleType="fitCenter"
+        android:layout_above="@+id/myaddress"
+        android:layout_toRightOf="@+id/light_meter_text"
+        android:adjustViewBounds="false"
+        android:background="@null"
+        android:cropToPadding="false"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="40dp"
+        android:clickable="true"
+        android:onClick="onClickReset"/>
+
+</RelativeLayout>
