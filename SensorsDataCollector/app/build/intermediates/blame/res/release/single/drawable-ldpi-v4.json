@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-ldpi-v4/setting.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-ldpi/setting.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

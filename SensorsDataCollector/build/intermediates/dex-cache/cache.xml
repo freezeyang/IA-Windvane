@@ -2,25 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_c3a11f4cf514d6a0ee787047bbb43c61ee9a09ba.jar" />
-    </item>
-    <item
         jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
         <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_be5be07a847442882e0c722c6f203937738e234c.jar" />
-    </item>
-    <item
-        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_1ef4a3729b084c681678ec6e8f28c91143c930a5.jar" />
     </item>
     <item
         jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
@@ -30,11 +16,11 @@
         <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_14ed0e3cc1515a2449205ab1f70bbbc54dcd8d2d.jar" />
     </item>
     <item
-        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_de974fb7f861966df7c2826aee92ab218a1970f7.jar" />
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_3fad8dcf8ff9d3da1f3588bab2a6400564b935f5.jar" />
     </item>
     <item
         jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
@@ -44,18 +30,18 @@
         <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_064f1c6a9db65706e223728ff3de6564c1883b9f.jar" />
     </item>
     <item
-        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_3fad8dcf8ff9d3da1f3588bab2a6400564b935f5.jar" />
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_c3a11f4cf514d6a0ee787047bbb43c61ee9a09ba.jar" />
     </item>
     <item
-        jar="/home/yin/StudioProjects/SensorsDataCollector/app/libs/opencsv-3.1.jar"
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="100f1f66bcade989c73eabd3d56ac39df47317df">
-        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/opencsv-3.1_e4fb890ea9205309868e014793ec970b9d5de17b.jar" />
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_1ef4a3729b084c681678ec6e8f28c91143c930a5.jar" />
     </item>
     <item
         jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
@@ -65,13 +51,6 @@
         <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_9e3bb8ab03b37b9b14a5a123d33b145932ba5137.jar" />
     </item>
     <item
-        jar="/home/yin/Desktop/adt-bundle-linux-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_52cbe6e0e11f3709d4977ad8eb651f5052045448.jar" />
-    </item>
-    <item
         jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -79,11 +58,32 @@
         <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_f3e1575c3018bc33f43789c6f33cc2fe526f026b.jar" />
     </item>
     <item
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_de974fb7f861966df7c2826aee92ab218a1970f7.jar" />
+    </item>
+    <item
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/libs/opencsv-3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="100f1f66bcade989c73eabd3d56ac39df47317df">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/opencsv-3.1_e4fb890ea9205309868e014793ec970b9d5de17b.jar" />
+    </item>
+    <item
         jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
         <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_00243c9b473808a4b8a3bcdd4eca1b860bcad31d.jar" />
+    </item>
+    <item
+        jar="/home/yin/Desktop/adt-bundle-linux-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_52cbe6e0e11f3709d4977ad8eb651f5052045448.jar" />
     </item>
 
 </items>

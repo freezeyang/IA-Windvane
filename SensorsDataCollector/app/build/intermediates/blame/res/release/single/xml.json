@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/xml/preferences_main.xml",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/xml/preferences_main.xml"
+    }
+]

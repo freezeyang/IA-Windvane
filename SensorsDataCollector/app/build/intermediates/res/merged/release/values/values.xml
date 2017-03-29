@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <integer name="google_play_services_version">10084000</integer>
+    <string name="CacheSize">500</string>
+    <string name="DatabaseRow">DB Row</string>
+    <string name="SlideSign">/</string>
+    <string name="X_Axis">X-Axis</string>
+    <string name="Y_Axis">Y-Axis</string>
+    <string name="Z_Axis">Z-Axis</string>
+    <string name="app_name">IA-w 1.2.1</string>
+    <string name="check_one">Enable Wind Vane</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="default_web_client_id" translatable="false">699636731765-hihpep6p47kbv65bak8se986huuspsaf.apps.googleusercontent.com</string>
+    <string name="download">Download</string>
+    <string name="export">Export</string>
+    <string name="firebase_database_url" translatable="false">https://sensorsdatacollector.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">699636731765</string>
+    <string name="google_api_key" translatable="false">AIzaSyDxDEk9XAyNndgKJAMwaK5m7GGmNb6az4A</string>
+    <string name="google_app_id" translatable="false">1:699636731765:android:74c3fec59cf03155</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDxDEk9XAyNndgKJAMwaK5m7GGmNb6az4A</string>
+    <string name="google_storage_bucket" translatable="false">sensorsdatacollector.appspot.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="light_meter_text">Current Light Strength Reading</string>
+    <string name="location_text">Address</string>
+    <string name="menu_settings">Settings</string>
+    <string name="service_name">LocationFromGPS_Service</string>
+    <string name="setting">drawable-xhdpi/setting.png</string>
+    <string name="start">Start  </string>
+    <string name="str_accelerometer">Accelerometer Information</string>
+    <string name="str_tv_location">Current Location</string>
+    <string name="title_activity_main">IA-w 1.2.1</string>
+    <string name="update">Update</string>
+    <style name="AppTheme" parent="android:Theme"/>
+</resources>

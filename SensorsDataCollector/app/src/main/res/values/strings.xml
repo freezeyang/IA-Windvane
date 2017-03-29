@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">IA-w 1.2</string>
+    <string name="app_name">IA-w 1.2.1</string>
     <string name="service_name">LocationFromGPS_Service</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">IA-w 1.2</string>
+    <string name="title_activity_main">IA-w 1.2.1</string>
     <string name="str_tv_location">Current Location</string>
     <string name="str_accelerometer">Accelerometer Information</string>
     <string name="X_Axis">X-Axis</string>

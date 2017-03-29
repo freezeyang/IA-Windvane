@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-hdpi-v4/setting.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-hdpi/setting.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    }
+]
